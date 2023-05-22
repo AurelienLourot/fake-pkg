@@ -3,6 +3,7 @@
   "version": "0.1.6",
   "scripts": {
     "release": "release-me patch",
+    "release:commit": "release-me commit",
     "build": "echo BUILD"
   },
   "dependencies": {
