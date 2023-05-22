@@ -1,6 +1,6 @@
 {
   "name": "@brillout/fake-pkg",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "scripts": {
     "release": "release-me patch",
     "release:commit": "release-me commit",
