@@ -2,7 +2,8 @@
   "name": "@brillout/fake-pkg",
   "version": "0.1.0",
   "scripts": {
-    "release": "release-me"
+    "release": "release-me patch",
+    "build": "echo build"
   },
   "dependencies": {
     "@brillout/release-me": "^0.1.3"
