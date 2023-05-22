@@ -1,6 +1,6 @@
 {
   "name": "@brillout/fake-pkg",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "scripts": {
     "release": "release-me patch",
     "build": "echo BUILD"
