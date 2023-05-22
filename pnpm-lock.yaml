@@ -2,8 +2,8 @@ lockfileVersion: '6.0'
 
 dependencies:
   '@brillout/release-me':
-    specifier: ^0.1.4
-    version: 0.1.4
+    specifier: ^0.1.6
+    version: 0.1.6
 
 packages:
 
@@ -28,8 +28,8 @@ packages:
       js-tokens: 4.0.0
     dev: false
 
-  /@brillout/release-me@0.1.4:
-    resolution: {integrity: sha512-aYA7EGkJDb9O3EQvfOWnvVg+1kBVvAcCMyBZC//ul/9jBYwBz+hGdMUd2563GGuoGEb2ZRjzPtMewRH70x+2Eg==}
+  /@brillout/release-me@0.1.6:
+    resolution: {integrity: sha512-EHwDLwd+Eseo0W7LmyLFdBJ5zsj69mJo/b54nkmkm13yd8rJ3b0IJI9yXBfr618PY71XjMmSjJH6FZ9zpsZb0Q==}
     hasBin: true
     dependencies:
       conventional-changelog: 3.1.25

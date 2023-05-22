@@ -7,7 +7,7 @@
     "build": "echo BUILD"
   },
   "dependencies": {
-    "@brillout/release-me": "^0.1.4"
+    "@brillout/release-me": "^0.1.6"
   },
   "repository": "github:brillout/fake-pkg",
   "license": "MIT",
