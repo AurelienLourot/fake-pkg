@@ -1,3 +1,12 @@
+## [0.1.6](https://github.com/brillout/fake-pkg/compare/v0.1.5...v0.1.6) (2023-05-22)
+
+
+### Bug Fixes
+
+* update release-me ([5034680](https://github.com/brillout/fake-pkg/commit/5034680150b7fcdb7f87b60ea3f3dd88333770fb))
+
+
+
 ## [0.1.5](https://github.com/brillout/fake-pkg/compare/v0.1.4...v0.1.5) (2023-05-22)
 
 
