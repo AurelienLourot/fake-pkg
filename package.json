@@ -3,7 +3,7 @@
   "version": "0.1.2",
   "scripts": {
     "release": "release-me patch",
-    "build": "echo build"
+    "build": "echo BUILD"
   },
   "dependencies": {
     "@brillout/release-me": "^0.1.3"
