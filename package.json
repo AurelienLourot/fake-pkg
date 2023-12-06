@@ -2,12 +2,12 @@
   "name": "@brillout/fake-pkg",
   "version": "0.1.7",
   "scripts": {
-    "release": "release-me patch",
+    "release": "release-me --force patch --git-prefix fake-pkg",
     "release:commit": "release-me commit",
     "build": "echo BUILD"
   },
   "dependencies": {
-    "@brillout/release-me": "^0.1.6"
+    "@brillout/release-me": "file:../release-me"
   },
   "repository": "github:brillout/fake-pkg",
   "license": "MIT",
